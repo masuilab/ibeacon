@@ -1,0 +1,16 @@
+{
+  "name": "node-sample",
+  "version": "0.0.0",
+  "description": "",
+  "main": "read_ltsv.js",
+  "scripts": {
+    "start": "./node_modules/coffee-script/bin/coffee read_ltsv.coffee"
+  },
+  "author": "Sho Hashimoto <hashimoto@shokai.org>",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "^1.7.1",
+    "ltsv": "^0.7.2",
+    "request": "^2.36.0"
+  }
+}

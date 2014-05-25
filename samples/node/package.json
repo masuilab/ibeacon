@@ -4,7 +4,7 @@
   "description": "",
   "main": "read_ltsv.js",
   "scripts": {
-    "start": "./node_modules/coffee-script/bin/coffee read_ltsv.coffee"
+    "start": "./node_modules/coffee-script/bin/coffee read_ibeacon.coffee"
   },
   "author": "Sho Hashimoto <hashimoto@shokai.org>",
   "license": "MIT",
